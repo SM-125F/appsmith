@@ -29,3 +29,4 @@ export const GithubOAuthURL = `${OAuthURL}/github`;
 
 export const LOGIN_SUBMIT_PATH = "login";
 export const SIGNUP_SUBMIT_PATH = "users";
+export const SUPER_USER_SUBMIT_PATH = `${SIGNUP_SUBMIT_PATH}/super`;
